@@ -4,14 +4,14 @@
 
 This Module is used to Exit the game as per requirement.
 
-### Scenario : Clicking on the close icon
+### Scenario : Click on the close icon
 
 Given : The game running on system.
-When : The player wants to exit the game he clicks close icon.
+When : The player want to exit the game he click close icon.
 Then : We exit the game.
 
-### Scenario : Choosing Quit Option from Setting
+### Scenario : Choose Quit Option from Setting
 
 Given : The game running on system.
-When : The player wants to exit the game he chooses Quit Option.
+When : The player want to exit the game he chooses Quit Option.
 Then : We exit the game.

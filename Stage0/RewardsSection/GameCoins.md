@@ -8,15 +8,15 @@ This Module gives us the coins we have in the pong game.
 
 Given : The system has the game ON and match is Finished and have internet ON.
 When : The player won the match.
-Then : Player will get 50 coins.
+Then : Player get 50 coins.
 
 ### Scenario : Coin Requirement for online play
 
 Given : The system has the game ON and have internet ON.
 When : The player want to have match online.
-Then : Player has to give 30 coins for a match.
+Then : Player give 30 coins for a match.
 
-### Scenario : Buying coin online
+### Scenario : Buy coin online
 
 Given : The system has the game ON and have internet ON .
 When : The player want to buy coins online.

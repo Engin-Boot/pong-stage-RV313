@@ -8,7 +8,7 @@ This module Modifies the player Details.
 
 Given : A system in which game is ON.
 When : The Player choose update or change the Playername
-Then : The player_name is updated.
+Then : The playername is updated.
 
 ### Scenario : Changing Password
 

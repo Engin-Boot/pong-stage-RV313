@@ -2,64 +2,64 @@
 
 ## Specification
 
-This Module will change the speed of ball depending upon level.
+This Module change the speed of ball depending upon level.
 
-### Scenario : Level I and Ball hits middle of paddle
-
-Given : The game running on system and the game is in progress.
-When  : The game is in Level I.
-Then  : The Ball speed will set to 1ms.
-
-### Scenario : Level I and Ball hits cornors of paddle
+### Scenario : Level I and Ball hit middle of paddle
 
 Given : The game running on system and the game is in progress.
 When  : The game is in Level I.
-Then  : The Ball speed will set to 0.5ms.
+Then  : The Ball speed set to 1ms.
 
-### Scenario : Level II and Ball hits middle of paddle
+### Scenario : Level I and Ball hit cornor of paddle
+
+Given : The game running on system and the game is in progress.
+When  : The game is in Level I.
+Then  : The Ball speed set to 0.5ms.
+
+### Scenario : Level II and Ball hit middle of paddle
 
 Given : The game running on system and the game is in progress.
 When  : The game is in Level II.
-Then  : The Ball speed will set to 1.5ms.
+Then  : The Ball speed set to 1.5ms.
 
-### Scenario : Level II and Ball hits cornors of paddle
+### Scenario : Level II and Ball hit cornor of paddle
 
 Given : The game running on system and the game is in progress.
 When  : The game is in Level II.
-Then  : The Ball speed will set to 1ms.
+Then  : The Ball speed set to 1ms.
 
-### Scenario : Level III and Ball hits middle of paddle
+### Scenario : Level III and Ball hit middle of paddle
 
 Given :The game running on system and the game is in progress.
 When  : The game is in Level III.
-Then  : The Ball speed will set to 2ms.
+Then  : The Ball speed set to 2ms.
 
-### Scenario : Level III and Ball hits cornors of paddle
+### Scenario : Level III and Ball hit cornor of paddle
 
 Given : The game running on system and the game is in progress.
 When  : The game is in Level III.
-Then  : The Ball speed will set to 1.5ms.
+Then  : The Ball speed set to 1.5ms.
 
-### Scenario : Level IV and Ball hits middle of paddle
-
-Given : The game running on system and the game is in progress.
-When  : The game is in Level IV.
-Then  : The Ball speed will set to 2.5ms.
-
-### Scenario : Level IV and Ball hits cornors of paddle
+### Scenario : Level IV and Ball hit middle of paddle
 
 Given : The game running on system and the game is in progress.
 When  : The game is in Level IV.
-Then  : The Ball speed will set to 2ms.
+Then  : The Ball speed set to 2.5ms.
 
-### Scenario : Level V and Ball hits middle of paddle
+### Scenario : Level IV and Ball hit cornor of paddle
+
+Given : The game running on system and the game is in progress.
+When  : The game is in Level IV.
+Then  : The Ball speed set to 2ms.
+
+### Scenario : Level V and Ball hit middle of paddle
 
 Given :The game running on system and the game is in progress.
 When  : The game is in Level V.
-Then  : The Ball speed will set to 3ms.
+Then  : The Ball speed set to 3ms.
 
-### Scenario : Level V and Ball hits cornors of paddle
+### Scenario : Level V and Ball hit cornor of paddle
 
 Given : The game running on system and the game is in progress.
 When  : The game is in Level V.
-Then  : The Ball speed will set to 2.5ms.
+Then  : The Ball speed set to 2.5ms.
