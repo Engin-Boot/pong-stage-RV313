@@ -34,7 +34,7 @@ Then : Display the playerID who reaches 10 points first.
 
 ### Scenario : Checking for winner for a online game
 
-Given : The game running on system and the game is just finished and played online.
+Given : The game running on system and its finished and played online.
 
 When : The score reaches 10 points.
 
