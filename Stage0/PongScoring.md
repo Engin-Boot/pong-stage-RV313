@@ -1,4 +1,4 @@
-# PONG_SCORING
+# PONGSCORING
 
 ## Specification
 

@@ -1,4 +1,4 @@
-# DAILY_TASK
+# DAILYTASK
 
 ## Specification
 

@@ -1,4 +1,4 @@
-# Change_Theme
+# ChangeTheme
 
 ## Specification
 

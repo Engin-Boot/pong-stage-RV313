@@ -1,4 +1,4 @@
-# PLAYER_LOG
+# PLAYERLOG
 
 ## Specification
 
@@ -14,4 +14,4 @@ Then : The Player fills Signup details and ID will be generated.
 
 Given : The game running on system.
 When : The player choose Existing account.
-Then : The Player fills Sign_in details and Enters the Game.
+Then : The Player fills Signin details and Enters the Game.

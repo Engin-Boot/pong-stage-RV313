@@ -1,4 +1,4 @@
-# Score_Card
+# ScoreCard
 
 ## Specification
 

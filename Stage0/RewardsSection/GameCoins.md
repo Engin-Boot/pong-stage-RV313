@@ -1,4 +1,4 @@
-# GAME_COINS
+# GAMECOINS
 
 ## Specification
 
