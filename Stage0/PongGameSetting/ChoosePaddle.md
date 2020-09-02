@@ -1,4 +1,4 @@
-# PaddleSetting
+# Paddle Setting
 
 ## Specification
 
@@ -7,7 +7,7 @@ This Module is for changing the Paddle as per requirement.
 ### Scenario : Select the Paddle from existing ones
 
 Given : The game running on system.
-When : We select the Paddle from existing Paddle_Types.
+When : We select the Paddle from existing Paddle Types.
 Then : Paddle is selected and Displayed.
 
 ### Scenario : Buy then Paddle from coins

@@ -1,4 +1,4 @@
-# PongLevels
+# Pong Levels
 
 ## Specification
 

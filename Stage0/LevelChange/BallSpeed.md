@@ -1,4 +1,4 @@
-# BallSpeedChanging
+# Ball Speed Changing
 
 ## Specification
 
@@ -10,7 +10,7 @@ Given : The game running on system and the game is in progress.
 When  : The game is in Level I.
 Then  : The Ball speed set to 1 ms .
 
-### Scenario : Level I and Ball hit cornors of paddle
+### Scenario : Level I and Ball hit cornor of paddle
 
 Given : The game running on system and the game is in progress.
 When  : The game is in Level I.
@@ -22,7 +22,7 @@ Given : The game running on system and the game is in progress.
 When  : The game is in Level II.
 Then  : The Ball speed set to 1.5 ms.
 
-### Scenario : Level II and Ball hit cornors of paddle
+### Scenario : Level II and Ball hit cornor of paddle
 
 Given : The game running on system and the game is in progress.
 When  : The game is in Level II.
@@ -34,7 +34,7 @@ Given :The game running on system and the game is in progress.
 When  : The game is in Level III.
 Then  : The Ball speed set to 2 ms.
 
-### Scenario : Level III and Ball hit cornors of paddle
+### Scenario : Level III and Ball hit cornor of paddle
 
 Given : The game running on system and the game is in progress.
 When  : The game is in Level III.
@@ -46,7 +46,7 @@ Given : The game running on system and the game is in progress.
 When  : The game is in Level IV.
 Then  : The Ball speed set to 2.5 ms.
 
-### Scenario : Level IV and Ball hit cornors of paddle
+### Scenario : Level IV and Ball hit cornor of paddle
 
 Given : The game running on system and the game is in progress.
 When  : The game is in Level IV.
@@ -58,7 +58,7 @@ Given :The game running on system and the game is in progress.
 When  : The game is in Level V.
 Then  : The Ball speed set to 3 ms.
 
-### Scenario : Level V and Ball hit cornors of paddle
+### Scenario : Level V and Ball hit cornor of paddle
 
 Given : The game running on system and the game is in progress.
 When  : The game is in Level V.
