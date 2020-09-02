@@ -4,7 +4,7 @@
 
 This Module tells about Player Log Details.
 
-### Scenario : If Player Dont have account
+### Scenario : If Player does not have account
 
 Given : The game running on system.
 When : The player choose New to the game option.
