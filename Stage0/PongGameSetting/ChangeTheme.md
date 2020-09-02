@@ -1,4 +1,4 @@
-# ThemeChange
+# Theme Setting
 
 ## Specification
 

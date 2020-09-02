@@ -1,14 +1,14 @@
-# ProfileView
+# Profile View
 
 ## Specification
 
 This module Modifies the player Details.
 
-### Scenario : Changing Playername
+### Scenario : Changing Player name
 
 Given : A system in which game is ON.
-When : The Player choose update or change the Playername
-Then : The playername is updated.
+When : The Player choose update or change the Player name
+Then : The player name is updated.
 
 ### Scenario : Changing Password
 

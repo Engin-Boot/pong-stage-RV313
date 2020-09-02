@@ -4,21 +4,21 @@
 
 This Module give tell us the score distribution.
 
-### Scenario : The ball hit the wall behind player1
+### Scenario : The ball hit the wall behind First Player
 
 Given : The game is running on system and game is in progress.
 
-When : The ball hit the wall behind the player1.
+When : The ball hit the wall behind the First Player.
 
-Then : One point is awareded to the player2.
+Then : One point is awarded to the Second Player.
 
-### Scenario : The ball hit the wall behind player2
+### Scenario : The ball hit the wall behind Second Player
 
 Given : The game is running on system and game is in progress.
 
-When : The ball hit the wall behind the player2.
+When : The ball hit the wall behind the Second Player.
 
-Then : One point is awareded to the player1.
+Then : One point is awarded to the First Player.
 
 ### Scenario : Player leave the match in between
 

@@ -20,4 +20,4 @@ Then : Player give 30 coins for a match.
 
 Given : The system has the game ON and have internet ON .
 When : The player want to buy coins online.
-Then : Player can pay the amount through phonepe as per coins.
+Then : Player can pay the amount through paytm as per coins.

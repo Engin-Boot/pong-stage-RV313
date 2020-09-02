@@ -1,4 +1,4 @@
-# PongExit
+# Pong Exit
 
 ## Specification
 

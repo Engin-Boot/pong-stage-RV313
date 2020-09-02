@@ -4,18 +4,18 @@
 
 This Module is for the players who want to play online.
 
-### Scenario : Select Player2 by referral
+### Scenario : Select Second Player by referral
 
 Given : The game running on system and ready to play and internet is ON.
 
-When : We select play online and Player2 enter referral code.
+When : We select play online and Second Player enter referral code.
 
-Then : The game start with Player2.
+Then : The game start with Second Player.
 
 ### Scenario : Select Player 2 randomly
 
 Given : The game running on system and ready to play and internet is ON.
 
-When : We select play online and Player2 selected randomly.
+When : We select play online and Second Player selected randomly.
 
-Then : The game start with Player2.
+Then : The game start with Second Player.

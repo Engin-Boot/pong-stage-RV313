@@ -1,13 +1,13 @@
-# ChoosingBallType
+# Ball Setting
 
 ## Specification
 
-This Module is for choosing the BallType as per requirement.
+This Module is for choosing the Ball Type as per requirement.
 
 ### Scenario : Select the Ball from existing ones
 
 Given : The game running on system.
-When : We select the Ball from existing BallTypes.
+When : We select the Ball from existing Ball Types.
 Then : The Ball is selected and Displayed.
 
 ### Scenario : Buy the Theme from coins
